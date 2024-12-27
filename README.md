@@ -1,6 +1,6 @@
 # Password-Management-System
 
-A password manager is a GUI-based application designed to store and manage online credentials.
+An offline password manager using MySQL for secure storage of online credentials by implementing xor encryption, combined with an intuitive, customizable GUI built using Python’s CustomTkinter, provides enhanced security and user control. This approach ensures data remains protected locally while offering a modern, user-friendly interface for seamless password management.
 
 **MODULES USED : **
 
